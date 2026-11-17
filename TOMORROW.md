@@ -8,7 +8,9 @@
 - [x] Prestigio (cristais + bonus permanente de ouro)
 - [x] Progresso offline (limite de 8h)
 - [x] 6 areas e 10 inimigos carregados de assets/*.json
-- [x] Arte provisoria em Vector Drawable
+- [x] Arte 3D completa em Vector Drawable (todos os arquivos integrados)
+- [x] Build funcionando e APK gerado
+- [x] Release v1.0.0-alpha no GitHub
 
 ## Proximos passos
 - [ ] Trocar a arte provisoria (res/drawable) pela arte final
