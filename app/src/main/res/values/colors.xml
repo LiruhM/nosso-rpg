@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rpg_primary">#FF00D4AA</color>
+    <color name="rpg_background">#FF0D0D14</color>
+    <color name="rpg_surface">#FF161622</color>
+    <color name="rpg_error">#FFFF4757</color>
+    <color name="ic_launcher_background">#FF161622</color>
+</resources>

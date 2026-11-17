@@ -1,0 +1,66 @@
+[
+  {
+    "id": "area_01",
+    "name": "Planicie Verde",
+    "order": 1,
+    "enemyIds": [
+      "enemy_slime",
+      "enemy_goblin"
+    ],
+    "unlockRequirement": 1,
+    "backgroundColor": "#2E7D32"
+  },
+  {
+    "id": "area_02",
+    "name": "Floresta Sombria",
+    "order": 2,
+    "enemyIds": [
+      "enemy_wolf",
+      "enemy_bandit"
+    ],
+    "unlockRequirement": 3,
+    "backgroundColor": "#1B5E20"
+  },
+  {
+    "id": "area_03",
+    "name": "Ruinas Antigas",
+    "order": 3,
+    "enemyIds": [
+      "enemy_orc",
+      "enemy_skeleton"
+    ],
+    "unlockRequirement": 6,
+    "backgroundColor": "#5D4037"
+  },
+  {
+    "id": "area_04",
+    "name": "Montanhas Geladas",
+    "order": 4,
+    "enemyIds": [
+      "enemy_troll",
+      "enemy_dragon_whelp"
+    ],
+    "unlockRequirement": 10,
+    "backgroundColor": "#455A64"
+  },
+  {
+    "id": "area_05",
+    "name": "Fortaleza Negra",
+    "order": 5,
+    "enemyIds": [
+      "enemy_dark_knight"
+    ],
+    "unlockRequirement": 15,
+    "backgroundColor": "#212121"
+  },
+  {
+    "id": "area_10",
+    "name": "Covil do Dragao",
+    "order": 6,
+    "enemyIds": [
+      "enemy_ancient_dragon"
+    ],
+    "unlockRequirement": 25,
+    "backgroundColor": "#B71C1C"
+  }
+]

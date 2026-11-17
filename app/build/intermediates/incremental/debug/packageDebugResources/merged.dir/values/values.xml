@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#FF161622</color>
+    <color name="rpg_background">#FF0D0D14</color>
+    <color name="rpg_error">#FFFF4757</color>
+    <color name="rpg_primary">#FF00D4AA</color>
+    <color name="rpg_surface">#FF161622</color>
+    <string name="app_name">Nosso RPG</string>
+    <string name="app_name_short">Nosso RPG</string>
+    <style name="RpgClickerTheme" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/rpg_background</item>
+        <item name="android:statusBarColor">@color/rpg_background</item>
+        <item name="android:navigationBarColor">@color/rpg_background</item>
+    </style>
+</resources>

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "enemy_slime",
+    "name": "Slime",
+    "baseMaxHealth": 10,
+    "currentHealth": 10,
+    "baseGoldReward": 5,
+    "baseExpReward": 10,
+    "areaId": "area_01",
+    "spriteIndex": 0,
+    "maxHealth": 10
+  },
+  {
+    "id": "enemy_goblin",
+    "name": "Goblin",
+    "baseMaxHealth": 25,
+    "currentHealth": 25,
+    "baseGoldReward": 12,
+    "baseExpReward": 20,
+    "areaId": "area_01",
+    "spriteIndex": 1,
+    "maxHealth": 25
+  },
+  {
+    "id": "enemy_wolf",
+    "name": "Lobo",
+    "baseMaxHealth": 60,
+    "currentHealth": 60,
+    "baseGoldReward": 25,
+    "baseExpReward": 35,
+    "areaId": "area_02",
+    "spriteIndex": 2,
+    "maxHealth": 60
+  },
+  {
+    "id": "enemy_bandit",
+    "name": "Bandido",
+    "baseMaxHealth": 120,
+    "currentHealth": 120,
+    "baseGoldReward": 50,
+    "baseExpReward": 60,
+    "areaId": "area_02",
+    "spriteIndex": 3,
+    "maxHealth": 120
+  },
+  {
+    "id": "enemy_orc",
+    "name": "Orc",
+    "baseMaxHealth": 250,
+    "currentHealth": 250,
+    "baseGoldReward": 100,
+    "baseExpReward": 100,
+    "areaId": "area_03",
+    "spriteIndex": 4,
+    "maxHealth": 250
+  },
+  {
+    "id": "enemy_skeleton",
+    "name": "Esqueleto",
+    "baseMaxHealth": 450,
+    "currentHealth": 450,
+    "baseGoldReward": 180,
+    "baseExpReward": 160,
+    "areaId": "area_03",
+    "spriteIndex": 5,
+    "maxHealth": 450
+  },
+  {
+    "id": "enemy_troll",
+    "name": "Troll",
+    "baseMaxHealth": 900,
+    "currentHealth": 900,
+    "baseGoldReward": 350,
+    "baseExpReward": 260,
+    "areaId": "area_04",
+    "spriteIndex": 6,
+    "maxHealth": 900
+  },
+  {
+    "id": "enemy_dragon_whelp",
+    "name": "Filhote de Dragao",
+    "baseMaxHealth": 1800,
+    "currentHealth": 1800,
+    "baseGoldReward": 700,
+    "baseExpReward": 420,
+    "areaId": "area_04",
+    "spriteIndex": 7,
+    "maxHealth": 1800
+  },
+  {
+    "id": "enemy_dark_knight",
+    "name": "Cavaleiro Negro",
+    "baseMaxHealth": 3500,
+    "currentHealth": 3500,
+    "baseGoldReward": 1400,
+    "baseExpReward": 700,
+    "areaId": "area_05",
+    "spriteIndex": 8,
+    "maxHealth": 3500
+  },
+  {
+    "id": "enemy_ancient_dragon",
+    "name": "Dragao Ancestral",
+    "baseMaxHealth": 10000,
+    "currentHealth": 10000,
+    "baseGoldReward": 5000,
+    "baseExpReward": 2000,
+    "areaId": "area_10",
+    "spriteIndex": 9,
+    "maxHealth": 10000
+  }
+]

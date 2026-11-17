@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_bg_area_02.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/bg_area_02.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_ic_coin.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/ic_coin.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_ic_heart.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/ic_heart.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_bg_area_04.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/bg_area_04.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_ic_wolf.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/ic_wolf.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_ic_fist.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/ic_fist.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_bg_area_10.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/bg_area_10.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/mipmap-xxxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_enemy_dark_knight.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/enemy_dark_knight.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_enemy_orc.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/enemy_orc.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_enemy_wolf.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/enemy_wolf.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_sprite_enemy.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/sprite_enemy.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_ic_star.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_ic_goblin.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/ic_goblin.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_enemy_dragon_whelp.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/enemy_dragon_whelp.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_enemy_troll.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/enemy_troll.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/mipmap-xhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_enemy_ancient_dragon.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/enemy_ancient_dragon.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_enemy_bandit.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/enemy_bandit.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/mipmap-xxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/mipmap-xhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_bg_area_01.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/bg_area_01.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_ic_bag.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/ic_bag.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_ic_eye.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/ic_eye.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_ic_glove.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/ic_glove.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_ic_dagger.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/ic_dagger.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_bg_area_03.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/bg_area_03.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/mipmap-xxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/mipmap-mdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_enemy_skeleton.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/enemy_skeleton.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_enemy_slime.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/enemy_slime.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_enemy_goblin.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/enemy_goblin.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_ic_skeleton.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/ic_skeleton.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_bg_area_05.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/bg_area_05.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_ic_gauntlet.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/ic_gauntlet.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/drawable_sprite_hero.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/drawable/sprite_hero.xml"
+    },
+    {
+        "merged": "com.rpgclicker.app-merged_res-48:/mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "com.rpgclicker.app-main-50:/mipmap-xxxhdpi/ic_launcher.xml"
+    }
+]
